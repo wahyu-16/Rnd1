@@ -1,0 +1,75 @@
+body{
+	font-family: arial;
+	color:white;
+	background:url('rnd123.jpg');
+}
+
+.tombol{
+ 	 background:yellow;
+ 	 color:green;
+ 	 border-top:0;
+ 	 border-left:0;
+ 	 border-right:0;
+ 	 border-bottom:5px solid green;
+ 	 
+ 	 text-decoration:none;
+ 	 font-family:sans-serif;
+ 	 font-size:11pt;
+}
+.edit {
+	 background:green;
+ 	 color:white;
+ 	 border-top:0;
+ 	 border-left:0;
+ 	 border-right:0;
+ 	 border-bottom:5px solid yellow;
+ 	 
+ 	 text-decoration:none;
+ 	 font-family:sans-serif;
+ 	 font-size:11pt;
+}
+.hapus {
+	 background:green;
+ 	 color:white;
+ 	 border-top:0;
+ 	 border-left:0;
+ 	 border-right:0;
+ 	 border-bottom:5px solid yellow ;
+ 	 
+ 	 text-decoration:none;
+ 	 font-family:sans-serif;
+ 	 font-size:11pt;
+}
+
+
+
+.judul{
+	background:url('rnd124.jpg');
+	color:yellow;
+	padding: 12px;
+	text-align: center;
+
+}
+
+.judul h1,h2,h3{
+	height: 15px;
+
+}
+
+a{
+	/*color: blue;*/
+	padding: 5px;
+	text-decoration: none;
+	
+}
+
+
+.table{
+	background: blue;
+	border-collapse: collapse;
+	
+}
+
+table.table th th , table.table tr td{
+	padding: 10px 20px	;
+}
